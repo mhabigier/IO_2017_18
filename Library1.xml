@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<books>
+    <book>
+        <author> </author>
+        <available>true</available>
+        <copies>4</copies>
+        <publisher>aa</publisher>
+        <subject>DO_NOW</subject>
+        <title>Zad 1</title>
+    </book>
+    <book>
+        <author> </author>
+        <available>true</available>
+        <copies>5</copies>
+        <publisher>bb</publisher>
+        <subject>PLAN_NEXT</subject>
+        <title>Zad 2</title>
+    </book>
+    <book>
+        <author> </author>
+        <available>false</available>
+        <copies>0</copies>
+        <publisher>cc</publisher>
+        <subject>MANAGE</subject>
+        <title>Zad 3</title>
+    </book>
+    <book>
+        <author> </author>
+        <available>false</available>
+        <copies>1</copies>
+        <publisher>ddd</publisher>
+        <subject>AVOID</subject>
+        <title>Zad 3</title>
+    </book>
+</books>
