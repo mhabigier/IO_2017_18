@@ -1,2 +1,17 @@
 Sources:
-1. 
+1. JavaFX: https://docs.oracle.com/javafx/2/best_practices/jfxpub-best_practices.htm
+2. JavaFX: https://docs.oracle.com/javafx/2/get_started/jfxpub-get_started.htm
+3. SceneBuilder: http://code.makery.ch/library/javafx-8-tutorial/
+4. Testing privates methods and variables: 
+    ftp://ftp.borg.moe/yarr/Gentoomen%20Library/Programming/Pragmatic%20Programmers/Pragmatic%20Unit%20Testing%20in%20Java%20with%20JUnit.pdf
+    page 99
+5. Events: https://docs.oracle.com/javase/8/javafx/events-tutorial/events.htm#JFXED117
+
+
+W.Jarosz's sources:
+1. Activity diagram: https://msdn.microsoft.com/en-us/library/dd409465.aspx
+2.
+
+
+
+
